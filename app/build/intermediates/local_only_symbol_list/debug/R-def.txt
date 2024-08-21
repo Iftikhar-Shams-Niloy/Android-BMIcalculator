@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable bmi_head
+drawable bmi_head_original
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_calculate
+id edit_text_age
+id edit_text_feet
+id edit_text_inches
+id edit_text_weight
+id radio_button_female
+id radio_button_male
+id text_view_result
+id text_view_review
+id text_view_status
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.BMICalculator
+style Theme.BMICalculator
+xml backup_rules
+xml data_extraction_rules
